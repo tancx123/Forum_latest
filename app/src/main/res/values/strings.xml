@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Forum</string>
+    <string name="question">Ask a Question</string>
+    <string name="title">Title</string>
+    <string name="question_hint">Be specific of your question</string>
+    <string name="body">Body</string>
+    <string name="body_text">Include all the information someone would need to answer your question</string>
+    <string name="body_hint">Type your question here and explanation</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+</resources>
