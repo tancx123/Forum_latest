@@ -8,4 +8,9 @@
     <string name="body_hint">Type your question here and explanation</string>
     <string name="submit">Submit</string>
     <string name="cancel">Cancel</string>
+
+    <string name="question1">
+        What is the difference between concurrency and parallelism?
+    </string>
+
 </resources>
